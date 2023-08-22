@@ -9,5 +9,7 @@
 ![WhatsApp Image 2023-08-21 at 11 31 23 PM](https://github.com/krunalbhongade/API/assets/126875304/7b3d0da2-7f85-4d3a-9042-a3c642948879)
 
 # 3.What is JSON?
+![WhatsApp Image 2023-08-22 at 11 27 53 PM](https://github.com/krunalbhongade/API/assets/126875304/acb3a197-28d9-4956-bf13-909f008b00f5)
+
 # 4.Making Server-Side API Requets with axios
 # 5.API Authentication
