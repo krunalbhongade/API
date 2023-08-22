@@ -10,6 +10,7 @@
 
 # 3.What is JSON?
 ![WhatsApp Image 2023-08-22 at 11 27 53 PM](https://github.com/krunalbhongade/API/assets/126875304/acb3a197-28d9-4956-bf13-909f008b00f5)
+![WhatsApp Image 2023-08-22 at 11 27 55 PM (1)](https://github.com/krunalbhongade/API/assets/126875304/100b6e47-44e5-49f9-b8ef-62598b156bb4)
 
 # 4.Making Server-Side API Requets with axios
 # 5.API Authentication
